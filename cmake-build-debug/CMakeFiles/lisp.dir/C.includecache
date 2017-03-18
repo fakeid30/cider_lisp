@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/nirjhor/CLionProjects/parser/main.c
+stdio.h
+-
+stdlib.h
+-
+mpc.h
+/home/nirjhor/CLionProjects/parser/mpc.h
+string.h
+-
+editline/readline.h
+-
+
+/home/nirjhor/CLionProjects/parser/mpc.c
+mpc.h
+/home/nirjhor/CLionProjects/parser/mpc.h
+
+/home/nirjhor/CLionProjects/parser/mpc.h
+stdlib.h
+-
+stdio.h
+-
+stdarg.h
+-
+string.h
+-
+math.h
+-
+errno.h
+-
+ctype.h
+-
+

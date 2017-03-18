@@ -1,0 +1,1 @@
+/usr/bin/cc  -ledit -g   CMakeFiles/lisp.dir/main.c.o CMakeFiles/lisp.dir/mpc.c.o  -o lisp -lm 
