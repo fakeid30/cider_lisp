@@ -13,8 +13,6 @@ stdlib.h
 -
 mpc.h
 /home/nirjhor/Git/parser/mpc.h
-string.h
--
 editline/readline.h
 -
 
