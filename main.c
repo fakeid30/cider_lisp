@@ -54,8 +54,10 @@ lval lval_err(int x) {
 /* Print an "lval" */
 void lval_print(lval v) {
     switch (v.type) {
+
         /* In the case the type is a number print it */
         /* Then 'break' out of the switch. */
+
         case LVAL_NUM: printf("%li", v.num); break;
 
             /* In the case the type is an error */
