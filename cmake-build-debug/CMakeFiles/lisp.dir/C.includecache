@@ -6,23 +6,23 @@
 
 #IncludeRegexTransform: 
 
-/home/nirjhor/CLionProjects/parser/main.c
+/home/nirjhor/Git/parser/main.c
 stdio.h
 -
 stdlib.h
 -
 mpc.h
-/home/nirjhor/CLionProjects/parser/mpc.h
+/home/nirjhor/Git/parser/mpc.h
 string.h
 -
 editline/readline.h
 -
 
-/home/nirjhor/CLionProjects/parser/mpc.c
+/home/nirjhor/Git/parser/mpc.c
 mpc.h
-/home/nirjhor/CLionProjects/parser/mpc.h
+/home/nirjhor/Git/parser/mpc.h
 
-/home/nirjhor/CLionProjects/parser/mpc.h
+/home/nirjhor/Git/parser/mpc.h
 stdlib.h
 -
 stdio.h

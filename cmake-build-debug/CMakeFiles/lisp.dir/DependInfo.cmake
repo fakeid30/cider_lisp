@@ -4,8 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/home/nirjhor/CLionProjects/parser/main.c" "/home/nirjhor/CLionProjects/parser/cmake-build-debug/CMakeFiles/lisp.dir/main.c.o"
-  "/home/nirjhor/CLionProjects/parser/mpc.c" "/home/nirjhor/CLionProjects/parser/cmake-build-debug/CMakeFiles/lisp.dir/mpc.c.o"
+  "/home/nirjhor/Git/parser/main.c" "/home/nirjhor/Git/parser/cmake-build-debug/CMakeFiles/lisp.dir/main.c.o"
+  "/home/nirjhor/Git/parser/mpc.c" "/home/nirjhor/Git/parser/cmake-build-debug/CMakeFiles/lisp.dir/mpc.c.o"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

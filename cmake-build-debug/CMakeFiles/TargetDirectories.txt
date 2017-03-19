@@ -1,3 +1,3 @@
-/home/nirjhor/CLionProjects/parser/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/nirjhor/CLionProjects/parser/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/nirjhor/CLionProjects/parser/cmake-build-debug/CMakeFiles/lisp.dir
+/home/nirjhor/Git/parser/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/nirjhor/Git/parser/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/nirjhor/Git/parser/cmake-build-debug/CMakeFiles/lisp.dir

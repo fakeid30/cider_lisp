@@ -41,11 +41,11 @@ int main() {
               Number, Operator, Expr, Lispy);
 
 
-    puts("Lispy Version 0.0.0.0.1");
+    puts("Cider Lisp Version 0.0.0.0.1");
     puts("Press ctrl+c to exit");
 
     while (1) {
-        char* input = readline("lispy > ");
+        char* input = readline("cider_lisp > ");
 
         add_history(input);
 
