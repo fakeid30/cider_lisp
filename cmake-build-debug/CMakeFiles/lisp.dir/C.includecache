@@ -7,10 +7,6 @@
 #IncludeRegexTransform: 
 
 /home/nirjhor/Git/parser/main.c
-stdio.h
--
-stdlib.h
--
 mpc.h
 /home/nirjhor/Git/parser/mpc.h
 editline/readline.h
