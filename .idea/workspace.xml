@@ -11,8 +11,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7b78ee69-49a7-4b67-983c-2a1defd543d1" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    <list default="true" id="7b78ee69-49a7-4b67-983c-2a1defd543d1" name="Default" comment="I'm tired of fucking TCI!">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.travis.yml" afterPath="$PROJECT_DIR$/.travis.yml" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
@@ -45,7 +44,7 @@
         <entry file="file://$PROJECT_DIR$/.travis.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="108">
-              <caret line="6" column="42" lean-forward="true" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+              <caret line="6" column="37" lean-forward="true" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -371,7 +370,8 @@
     <MESSAGE value="Trying to fix Travis CI" />
     <MESSAGE value="Trying to fix Travis CI #2" />
     <MESSAGE value="No more gcc check" />
-    <option name="LAST_COMMIT_MESSAGE" value="No more gcc check" />
+    <MESSAGE value="I'm tired of fucking TCI!" />
+    <option name="LAST_COMMIT_MESSAGE" value="I'm tired of fucking TCI!" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -861,7 +861,7 @@
     <entry file="file://$PROJECT_DIR$/.travis.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
-          <caret line="6" column="42" lean-forward="true" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+          <caret line="6" column="37" lean-forward="true" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
           <folding />
         </state>
       </provider>

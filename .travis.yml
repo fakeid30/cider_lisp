@@ -4,7 +4,7 @@ before_install:
   sudo apt-get update && sudo apt-get -y install libedit-dev
 
 script:
-  clang -Wall main.c mpc.c -ledit -lm -j18
+  clang -Wall main.c mpc.c -ledit -lm
 
 compiler:
 - clang
