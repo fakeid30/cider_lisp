@@ -8,3 +8,4 @@ script:
 
 compiler:
 - clang
+- gcc
