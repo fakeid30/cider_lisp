@@ -1,11 +1,6 @@
 language: c
-
-script:
-   -clang -std=c99 -Wall main.c mpc.c -ledit -lm -o parsing
   
 compiler:
   - clang
   - gcc
 
-after_success:
-- bash <(curl -s https://codecov.io/bash)
